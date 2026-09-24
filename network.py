@@ -1,5 +1,5 @@
 def multiply(a, b):
-	"""Return the product of two numbers. i have modified some changes"""
+	"""Return the product of two numbers. i have modified some changes related to multipication"""
 	return a * b
 
-print(multiply(3, 4))  # Output: 12
+print(multiply(3, 9))  # Output: 12
